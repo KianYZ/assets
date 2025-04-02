@@ -1,0 +1,2 @@
+# assets
+JsDeliver CDN
