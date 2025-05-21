@@ -1,0 +1,2 @@
+# assets
+JsDeviler CDN
